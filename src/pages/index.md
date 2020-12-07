@@ -5,9 +5,14 @@ sections:
     type: section_hero
     image_alt: App preview
     title: Welcome
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |-
+      18800 NW 2nd Avenue
+      Suite 211
+      Miami, FL 33169
+
+      Phone : 305-770-0703
+      Fax : 305-653-2221
+      E-mail : attyfisch@divorceaffordable.com
     actions:
       - label: Learn More
         url: /features
