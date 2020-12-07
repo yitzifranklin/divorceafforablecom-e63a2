@@ -106,13 +106,6 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
-        image_alt: App user profile preview
-        content: ''
-        actions:
-          - label: Learn More
-            url: /features
   - section_id: reviews
     type: section_reviews
     background: white
