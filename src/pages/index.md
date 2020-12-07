@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: Welcome
+    title: Affordable Divorce
     content: >-
       Welcome to the Law Offices of Chaim Fischweicher, P.A., a highly-
       respected, experienced, compassionate, Divorce and Family Law attorney.
