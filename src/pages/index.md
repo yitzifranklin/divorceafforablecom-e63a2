@@ -19,7 +19,7 @@ sections:
     subtitle: ''
     features:
       - title: Welcome
-        image: images/violet-zucchini.jpg
+        image: images/img-1.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Welcome to the Law Offices of Chaim Fischweicher, P.A., a highly-
