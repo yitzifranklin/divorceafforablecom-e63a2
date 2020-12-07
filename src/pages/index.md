@@ -94,6 +94,7 @@ sections:
         image_alt: App users welcoming a new member
         content: |-
           Law Offices of Chaim Fischweicher, P.A.
+
           18800 NW 2nd Avenue
           Suite 211
           Miami, FL 33169
