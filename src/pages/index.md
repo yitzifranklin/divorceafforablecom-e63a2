@@ -99,10 +99,11 @@ sections:
           Suite 211
           Miami, FL 33169
 
-          Phone : 305-770-0703
-          Fax : 305-653-2221
-          E-mail : attyfisch@divorceaffordable.com
-          Location : Google maps
+
+          * Phone : 305-770-0703
+          * Fax : 305-653-2221
+          * E-mail : attyfisch@divorceaffordable.com
+          * Location : Google maps
         actions:
           - label: Learn More
             url: /features
