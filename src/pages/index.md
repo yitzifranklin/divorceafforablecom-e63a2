@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/rav.jpg
     image_alt: App preview
     title: Welcome
     content: >-
