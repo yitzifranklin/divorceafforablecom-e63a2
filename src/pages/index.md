@@ -18,7 +18,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: The Best Feature of Your Services
+      - title: Welcome
         image: images/violet-zucchini.jpg
         image_alt: App preview on a phone and tablet
         content: >-
