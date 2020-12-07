@@ -22,7 +22,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: The Best Feature of Your Services
-        image: images/feature1.png
+        image: images/violet-zucchini.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Welcome to the Law Offices of Chaim Fischweicher, P.A., a highly-
