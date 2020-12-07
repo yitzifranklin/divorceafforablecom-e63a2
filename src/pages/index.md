@@ -93,7 +93,6 @@ sections:
         image: images/2020-12-07--12-24-11PM.png
         image_alt: App users welcoming a new member
         content: |-
-          Firm Location
           Law Offices of Chaim Fischweicher, P.A.
           18800 NW 2nd Avenue
           Suite 211
