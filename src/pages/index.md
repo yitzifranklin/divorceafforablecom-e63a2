@@ -5,14 +5,9 @@ sections:
     type: section_hero
     image_alt: App preview
     title: Welcome
-    content: |-
-      18800 NW 2nd Avenue
-      Suite 211
-      Miami, FL 33169
-
-      Phone : 305-770-0703
-      Fax : 305-653-2221
-      E-mail : attyfisch@divorceaffordable.com
+    content: >-
+      Welcome to the Law Offices of Chaim Fischweicher, P.A., a highly-
+      respected, experienced, compassionate, Divorce and Family Law attorney.
     actions:
       - label: Learn More
         url: /features
