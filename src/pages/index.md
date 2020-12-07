@@ -90,7 +90,7 @@ sections:
           - label: Learn More
             url: /features
       - title: Firm Location
-        image: images/feature2.png
+        image: images/2020-12-07--12-24-11PM.png
         image_alt: App users welcoming a new member
         content: |-
           Firm Location
