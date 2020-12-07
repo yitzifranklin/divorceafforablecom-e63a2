@@ -92,10 +92,17 @@ sections:
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |-
+          Firm Location
+          Law Offices of Chaim Fischweicher, P.A.
+          18800 NW 2nd Avenue
+          Suite 211
+          Miami, FL 33169
+
+          Phone : 305-770-0703
+          Fax : 305-653-2221
+          E-mail : attyfisch@divorceaffordable.com
+          Location : Google maps
         actions:
           - label: Learn More
             url: /features
